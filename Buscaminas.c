@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Buscaminas*/
+/*Buscaminas HOLI*/
 
 void inicializarJuego(int filas,int columnas,int **matrix){
 	int i,j;
